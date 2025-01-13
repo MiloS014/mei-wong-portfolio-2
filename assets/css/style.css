@@ -35,4 +35,12 @@ h2 {
     background-color: white;
 }
 
-
+/* Hero section */
+#hero {
+    background-color: light-grey;
+    background-image: url("../images/background.webp");
+    background-size: cover;
+    background-position: 50% 70%;
+    min-height: 500px;
+    padding: 5% 7%;
+}
